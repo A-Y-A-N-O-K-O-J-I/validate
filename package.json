@@ -18,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ayanokojix2306/obfuscator.git"
+    "url": "git+https://github.com/A-Y-A-N-O-K-O-J-I/validate.git"
   },
   "bugs": {
-    "url": "https://github.com/Ayanokojix2306/SOPHIA-MD/issues"
+    "url": "https://github.com/A-Y-A-N-O-K-O-J-I/validate/issues"
   },
-  "homepage": "https://github.com/Ayanokojix2306/SOPHIA-MD#readme"
+  "homepage": "https://github.com/A-Y-A-N-O-K-O-J-I/validate#readme"
 }
